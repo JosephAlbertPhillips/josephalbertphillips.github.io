@@ -1,9 +1,9 @@
 ---
 title: "News item"
 description: "About new item"
-author: "News"
-date: "2024-06-24"
-categories: [news]
+author: "Joseph Phillips"
+date: "2026-08-09"
+categories: [blog]
 image: "/files/images/placeholder3.JPG"
 #css: /custom.css
 #draft: true
@@ -17,3 +17,4 @@ About the news
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}
+https://github.com/JosephAlbertPhillips/STAT-C1000.git

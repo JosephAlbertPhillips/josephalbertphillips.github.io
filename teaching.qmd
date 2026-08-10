@@ -5,27 +5,27 @@ title-block-banner: false
 ---
 
 
-## Class 1
+## STAT C1000
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/placeholder1.JPG)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2026](https://josephalbertphillips.github.io/STAT-C1000/)
 
-Class 1 introduction.
-
-:::
+This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.
 
 :::
 
+:::
 
-## Class 2
+
+## MATH C2210
 
 ::: {.grid}
 
@@ -36,32 +36,11 @@ Class 1 introduction.
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Spring 2026](https://www.google.com)
 
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
+first course in differential and integral calculus of a single variable. Topics include limits and continuity of functions, techniques and applications of differentiation, an introduction to integration, and the Fundamental Theorem of Calculus. This course is primarily intended for Science, Technology, Engineering, and Mathematics (STEM) majors.
 
 :::
 
 :::
-
 
