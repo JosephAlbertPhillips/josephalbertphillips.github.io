@@ -28,6 +28,11 @@ Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical descript
 Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
+## Peer-reviewed Conference Papers
+
+Cao, P., **Phillips, J.**, Bewley, T., & Kuester, F. (2023). QuadGlider: Towards the Design and Control of a Bio-Inspired Multi-Modal UAV with Compliant Wings. *IEEE Aerospace Conference*, 17. \[[pdf](https://www.researchgate.net/publication/370786582_QuadGlider_Towards_the_Design_and_Control_of_a_Bio-Inspired_Multi-Modal_UAV_with_Compliant_Wings)\] <span class="__dimensions_badge_embed__" data-doi="10.1109/AERO55745.2023.10115944" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1109/AERO55745.2023.10115944" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
 
 <!--Include social share buttons-->
 

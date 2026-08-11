@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "These are only the courses I have taught with a corresponding website. Feel free to check out any of the webpages."
 title-block-banner: false
 ---
 
@@ -36,7 +36,7 @@ This course is an introduction to statistical thinking and processes, including 
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2026](https://www.google.com)
+[Fall 2026](https://www.google.com)
 
 first course in differential and integral calculus of a single variable. Topics include limits and continuity of functions, techniques and applications of differentiation, an introduction to integration, and the Fundamental Theorem of Calculus. This course is primarily intended for Science, Technology, Engineering, and Mathematics (STEM) majors.
 

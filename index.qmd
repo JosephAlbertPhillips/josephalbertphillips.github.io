@@ -1,7 +1,7 @@
 ---
 title: "Joseph Phillips, MS"
 description-meta: "Quarto Academic Website adapted by Joseph Phillips"
-image: "files/images/placeholder4.jpg"
+image: "files/images/portrait.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
